@@ -1,5 +1,5 @@
 body{font-family: 'Times New Roman', Times, serif;}
-table{margin-left: auto;margin-right: auto;margin-top: 20px;}
+table{margin: 0px auto;}
   button:hover{background-color: black;
   color: white;
 padding: 2px 4px 2px 4px;}
